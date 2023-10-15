@@ -1,4 +1,4 @@
-#JS Array methods
+**JS Array methods**
 
 1. Simple Mapping - Capitalize Names
    
