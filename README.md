@@ -24,7 +24,7 @@
    Output: ['Apple', 'Avocado']
 
 
-#5. Map + Reduce - String Lengths
+5. Map + Reduce - String Lengths
    JS Array methods2Given an array of words, use map to obtain an array of word lengths, and then use reduce to get the average word length.
    Input: ['apple', 'banana', 'cherry']
    Output: 5.33 (because (5+6+6)/3 = 5.33)
